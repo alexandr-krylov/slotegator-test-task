@@ -1,0 +1,1 @@
+# slotegator-test-task
